@@ -4,11 +4,32 @@
 
 body{
   padding: 20px;
+  margin: 20px;
+}
+a{
+  text-decoration: none;
+  color: red;
+  text-align: center;
+  font-weight: bold;
+  margin: 20px;
+}
+.discussion {
+  width: 200px;
+  border: 1px solid #F4F4F4;
+  border-left: 10px solid #F4F4F4;
+  padding: 20px;
+  margin: 20px;
 }
 
-.discussion {
-  border-left: 10px solid #F4F4F4;
-  padding: 10px;
-  margin: 20px;
+.input{
+  border-radius: 10px;
+  width: 200px;
+  height: 30px;
+  margin: 10px;
+}
 
+.btn {
+  border-radius: 10px;
+  width: 60px;
+  height: 30px;
 }
